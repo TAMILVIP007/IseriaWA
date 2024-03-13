@@ -14,6 +14,6 @@ require (
 	github.com/gorilla/websocket v1.5.0 // indirect
 	go.mau.fi/libsignal v0.0.0-20221015105917-d970e7c3c9cf // indirect
 	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	rsc.io/qr v0.2.0 // indirect
 )
